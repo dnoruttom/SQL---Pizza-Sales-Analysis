@@ -1,7 +1,7 @@
 # SQL: Pizza-Sales-Analysis
 
 ## Project Overview
-This data analysis project aims to provide insight into the sales performance of a Pizza company. By analysing the various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deep understanding of the company’s performance. 
+This data analysis project aims to provide insight into the sales performance of a Pizza company. By analysing the various aspects of the sales data, I seek to identify trends, make data-driven recommendations, and gain a deep understanding of the company’s performance. 
 
 ## Key Performance Indicators (KPIs)
 
